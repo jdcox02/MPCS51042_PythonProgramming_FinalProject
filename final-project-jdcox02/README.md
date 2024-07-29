@@ -60,31 +60,31 @@ Ensure you have the following installed:
 ### Running Tests
 
 Use pytest to run the unit tests:
-\`\`\`sh
+```sh
 pytest test_markov.py
-\`\`\`
+```
 
 ### Speaker Recognition
 
 Run the speaker recognition driver:
-\`\`\`sh
+```sh
 python proj/driver.py proj/speeches/bush-kerry3/BUSH-0.txt proj/speeches/bush-kerry3/KERRY-2.txt proj/speeches/bush-kerry3/BUSH-12.txt 2 hashtable
-\`\`\`
+```
 
 Example output:
-\`\`\`
+```
 Speaker A: -3.321399706248773
 Speaker B: -3.414859165373006
 
 Conclusion: Speaker A is most likely
-\`\`\`
+```
 
 ### Performance Testing
 
 Run the performance testing script:
-\`\`\`sh
+```sh
 python proj/performance.py <speakerA_file> <speakerB_file> <unknown_speaker_file> <max_k> <num_runs>
-\`\`\`
+```
 
 ## Conclusion
 
