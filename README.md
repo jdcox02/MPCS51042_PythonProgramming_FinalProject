@@ -89,3 +89,12 @@ python proj/performance.py <speakerA_file> <speakerB_file> <unknown_speaker_file
 ## Conclusion
 
 This project demonstrates the implementation of Markov Models for text analysis and speaker recognition, along with a custom hash table for efficient data storage and retrieval. The performance comparison between custom hash tables and built-in dictionaries provides insights into data structure efficiency in practical applications.
+
+## Contact
+
+For questions or feedback, please reach out to:
+
+- **Name**: Josh Cox
+- **Email**: [jdcox02@gmail.com](mailto:jdcox02@gmail.com)
+- **GitHub**: [jdcox02](https://github.com/jdcox02)
+- **LinkedIn**: [jdcox02](https://www.linkedin.com/in/jdcox02)
